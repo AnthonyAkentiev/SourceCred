@@ -1,7 +1,5 @@
 {
     "repositories": [
-        "anytypeio/go-anytype-middleware",
-        "anytypeio/go-anytype-cafe",
-        "anytypeio/js-anytype"
+        "anytypeio/go-anytype-cafe"
     ]
 }
