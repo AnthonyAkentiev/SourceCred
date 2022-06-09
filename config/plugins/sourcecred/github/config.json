@@ -1,1 +1,7 @@
-{"repositories": ["sourcecred-test/example-github"]}
+{
+    "repositories": [
+        "anytypeio/go-anytype-middleware",
+        "anytypeio/go-anytype-cafe",
+        "anytypeio/js-anytype"
+    ]
+}
