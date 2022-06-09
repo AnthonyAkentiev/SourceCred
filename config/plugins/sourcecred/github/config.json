@@ -1,0 +1,22 @@
+{
+    "repositories": [
+        "anytypeio/android-anytype",
+        "anytypeio/ios-anytype",
+        "anytypeio/go-anytype-cafe",
+        "anytypeio/js-anytype",
+        "anytypeio/go-anytype-middleware",
+        "anytypeio/js-anytype-extensions",
+        "anytypeio/go-ds-mongo",
+        "anytypeio/documentation",
+        "anytypeio/go-anytype-nft-profile-sample",
+        "anytypeio/discourse-theme",
+        "anytypeio/airtable-relations-export",
+        "anytypeio/python-anytype-testing",
+        "anytypeio/paperworks",
+        "anytypeio/libp2ptest",
+        "anytypeio/go-anytype-library",
+        "anytypeio/mw-merge",
+        "anytypeio/features-epics",
+        "anytypeio/anydocs"
+    ]
+}
